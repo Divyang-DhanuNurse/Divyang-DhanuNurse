@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divyang-DhanuNurse
-- 👀 I’m interested in latest trends in software quality assurance and test automation
+- 👀 I’m interested in the latest trends in software quality assurance and test automation
 - 🌱 I’m currently learning Agile Practices and CI/CD with Cloud Technology
-- 💞️ I’m looking to collaborate on various free and open-source software projects
+- 💞️ I’m looking for collaboration on various free and open-source software projects
 - 📫 How to reach me : Please email me on divyangd1984@gmail.com
 
 <!---
